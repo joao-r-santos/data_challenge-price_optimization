@@ -91,3 +91,8 @@ ENV/
 # Edit files
 *~
 .*~
+
+Get local info data.ipynb
+state_code.npy
+
+Data_Challenge_Problem.pdf
